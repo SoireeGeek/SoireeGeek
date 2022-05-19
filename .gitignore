@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### ACCES BDD ###
+src/main/resources/application.properties
